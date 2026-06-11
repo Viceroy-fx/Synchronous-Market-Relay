@@ -2,6 +2,7 @@
 A high-performance, multithreaded Python pipeline for real-time financial telemetry. Engineered with a zero-lag GUI, O(1) memory caching to bypass rate limits, and a high-availability dual-AI failover system for uninterrupted data analysis.
 
 
+```mermaid
 graph TD
     classDef core fill:#1E1E1E,stroke:#4CAF50,stroke-width:2px,color:#fff;
     classDef ui fill:#2D2D2D,stroke:#2196F3,stroke-width:2px,color:#fff;
