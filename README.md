@@ -1,6 +1,7 @@
 # Synchronous-Market-Relay
 A high-performance, multithreaded Python pipeline for real-time financial telemetry. Engineered with a zero-lag GUI, O(1) memory caching to bypass rate limits, and a high-availability dual-AI failover system for uninterrupted data analysis.
 
+This repository serves as an architectural showcase and documentation hub. The core execution engine, scraping algorithms, and AI routing logic are proprietary and closed-source. Source code review is available upon request during technical interviews.
 
 ```mermaid
 graph TD
